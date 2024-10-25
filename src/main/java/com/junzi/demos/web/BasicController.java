@@ -29,6 +29,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class BasicController {
 
     //这是一行测试注释
+    //测试rebase方式提交
     // http://127.0.0.1:8080/hello?name=lisi
     @RequestMapping("/hello")
     @ResponseBody
